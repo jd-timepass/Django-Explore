@@ -22,7 +22,7 @@ Code to Decode is an online resource offering coding tutorials, problem-solving 
 
 ## 📚 Getting Started
 
-1. Visit [Code to Decode](insert your website link here).
+1. Will be deployed soon.
 2. Sign up or log in to get started with coding.
 3. Explore the courses and start learning.
 4. Practice by solving coding challenges to enhance your skills.
